@@ -1,3 +1,6 @@
+> [!NOTE]
+> The Source code isn't released until V4 Comes out
+
 # Friday Night Funkin' - Meme Engine V4
 Mic'd Up Engine Continued
 
